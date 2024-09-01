@@ -6,6 +6,18 @@
 
 ## 주요 기능
 
+<img src="https://github.com/user-attachments/assets/dc906e2a-90f2-4ab3-9082-8ee053799164" alt="KakaoTalk_Photo_1" width="200"/>
+<img src="https://github.com/user-attachments/assets/41e4d920-16e6-4961-92a7-8c6d76336a2a" alt="KakaoTalk_Photo_2" width="200"/>
+<img src="https://github.com/user-attachments/assets/30fd452d-de89-4a20-9761-44d15e1fc7c2" alt="KakaoTalk_Photo_3" width="200"/>
+<img src="https://github.com/user-attachments/assets/c0238730-06fb-4c17-b0de-bd4fff9e4486" alt="KakaoTalk_Photo_4" width="200"/>
+<img src="https://github.com/user-attachments/assets/7b4e0423-7456-40f5-b931-87c94426a607" alt="KakaoTalk_Photo_5" width="200"/>
+<img src="https://github.com/user-attachments/assets/272499b9-7942-457d-83a7-a2a3d34d7a8f" alt="KakaoTalk_Photo_6" width="200"/>
+<img src="https://github.com/user-attachments/assets/d5b3bf5c-0bd8-45f9-b8f8-fa4ec66e7613" alt="KakaoTalk_Photo_7" width="200"/>
+
+
+
+
+
 ### 환자 관리 기능
 
 * **예약 및 일정 관리**: 환자가 투석 일정을 예약하고 확인할 수 있습니다.
