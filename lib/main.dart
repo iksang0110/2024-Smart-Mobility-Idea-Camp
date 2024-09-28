@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: '투석 관리 앱',
-      theme: ThemeData(
+      theme: ThemeData(~
         primarySwatch: Colors.blue,
         textTheme: GoogleFonts.notoSansTextTheme(
           Theme.of(context).textTheme,
@@ -26,4 +26,4 @@ class MyApp extends StatelessWidget {
       home: UserTypeSelectionScreen(),
     );
   }
-}
+}~
